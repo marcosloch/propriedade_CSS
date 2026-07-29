@@ -1,0 +1,26 @@
+h1 {
+    font-size: 40px;
+}
+
+#subtitulo {
+    color: blue;
+
+}
+
+.testeclass {
+    font-size: 30px;
+    color: red;
+}
+
+h3 {
+    color:red;
+    background-color: blue;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: lighter;
+    text-align: center;
+    border: 5px dotted green;
+    width: 250px;
+    height: 100px;
+    cursor: pointer;
+}
